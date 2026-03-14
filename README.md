@@ -1,15 +1,16 @@
 # DataLyzer Quality Monitoring System Implementation
 
-This project documents the implementation of DataLyzer for statistical quality control in a manufacturing environment.
+I successfully implemented DataLyzer SPC software to monitor and improve manufacturing quality processes. The project included:
 
 ## Overview
 Implemented and configured DataLyzer to monitor critical dimensions, generate Cpk, histograms, alarms, and quality dashboards to support real-time quality monitoring and process stability.
 
 ## Key Contributions
-- Configured SPC monitoring for critical dimensions.
-- Generated automated Cpk reports, histograms, and alarms.
-- Supported cross-functional teams with actionable quality insights.
-- Improved process stability and scrap reduction.
+- System Setup: Configured DataLyzer modules to capture dimensional data in real time.
+- Statistical Analysis: Generated Cp/Cpk indices, histograms, and control charts to evaluate process capability.
+- Alerts & Dashboards: Built alarms for out-of-control conditions and dashboards for operators and engineers.
+- Cross-functional Collaboration: Delivered statistical quality reports that improved decision-making and reduced scrap.
+- Impact: Achieved greater process stability, reduced variability, and ensured compliance with ISO/IATF standards.
 
 ## Technologies
 - DataLyzer
